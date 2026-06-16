@@ -46,20 +46,20 @@ I am an Australian Citizen based in Melbourne, VIC, specializing in production-g
 
 ## 📈 Engineering Leadership & Core Philosophies
 
-- **Uplifting Developer Experience (DX):** I treat build tooling, project configuration, and shared local libraries as core products. I focus heavily on optimizing CI/CD workflows and local setups to dramatically decrease release friction and boost team velocity.
+- **Uplifting Developer Experience (DX):** I treat build tooling, project configuration, and shared local libraries as core products. I focus heavily on optimising CI/CD workflows and local setups to dramatically decrease release friction and boost team velocity.
 - **Shift-Left Quality Assurance:** I champion structured code reviews, rigid technical governance, and robust automated test coverage across unit, integration, and E2E layers to catch edge cases long before code hits production.
-- **Performance Optimization:** Experienced in fine-tuning native mobile applications—historically driving optimizations like a **30% reduction in application load times** via aggressive bundle tuning, lazy loading, and custom native performance tuning.
+- **Performance Optimisation:** Experienced in fine-tuning native mobile applications—historically driving optimisations like a **30% reduction in application load times** via aggressive bundle tuning, lazy loading, and custom native performance tuning.
 - **Collaborative Agile Governance:** Skilled at interfacing directly with Product, UX, Marketing, and Backend stakeholders to map out technical strategies for ambiguous or evolving product constraints.
 
 ---
 
 ## 🚀 Key Architectural Horizons (Featured Projects)
 
-While much of my production architecture lives within private enterprise systems, my engineering approach centers on these domains:
+While much of my production architecture lives within private enterprise systems, my engineering approach centres on these domains:
 
 ### 🏢 Enterprise-Grade Mobile Frameworks
 *Architecting modular frameworks capable of handling high-concurrency operations, secure session states, and offline-first capabilities.*
-- **Core Vectors:** Secure identity tokens (Cognito/OAuth2), localized database caching, and multi-tenant performance profiles.
+- **Core Vectors:** Secure identity tokens (Cognito/OAuth2), localised database caching, and multi-tenant performance profiles.
 - **Operational Target:** High-availability utilities used across rigorous international compliance markets.
 
 ### 🌐 IoT, Hardware & Consumer Experiences
