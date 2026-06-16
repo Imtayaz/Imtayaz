@@ -1,5 +1,78 @@
 # 💫 About Me:
-Senior Mobile Developer and Technical Leader with 10+ years of experience<br>delivering high-quality iOS and Android applications, including 5+ years leading cross-<br>functional engineering teams. Specialist in React Native architecture and engineering<br>enablement practices that improve developer experience, release velocity, and<br>software quality.<br>Recognised for mentoring engineers, driving modern CI/CD pipelines, and<br>implementing automated testing strategies across all layers to support reliable,<br>scalable mobile platforms. Strong collaborator in Agile environments, comfortable<br>solving ambiguous product and technical challenges.
+# Hi, I'm Imtayaz Khan 👋
+
+### Mobile Engineering Lead & Technical Architect
+I am an Australian Citizen based in Melbourne, VIC, specializing in production-grade React Native architecture, cross-functional team leadership, and engineering excellence practices. Over the past decade, I have led engineering teams and architected scalable iOS and Android platforms integrated with high-traffic enterprise and cloud ecosystems.
+
+---
+
+## 🛠️ Technology Stack & Expertise
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Frontend & Mobile Architecture</h4>
+      <ul>
+        <li><b>Languages:</b> TypeScript, JavaScript, Swift, SwiftUI, Kotlin</li>
+        <li><b>Frameworks:</b> React Native, Native Module Bridging</li>
+        <li><b>Patterns:</b> Clean Architecture, MVVM, Modular App Structures</li>
+      </ul>
+      <h4>☁️ Backend, Cloud & Security</h4>
+      <ul>
+        <li><b>Cloud Services:</b> AWS (Amplify, Cognito, Lambda, API Gateway), Firebase</li>
+        <li><b>APIs & Protocols:</b> REST, GraphQL, Real-Time Data Integration</li>
+        <li><b>Identity/Security:</b> OAuth2, JWT, Biometric Authentication</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧪 Testing & Quality Automation</h4>
+      <ul>
+        <li><b>JS/RN Testing:</b> Jest, React Native Testing Library</li>
+        <li><b>End-to-End:</b> Detox</li>
+        <li><b>API Simulation:</b> Mock Service Worker (MSW)</li>
+        <li><b>Native Layer:</b> XCTest, Espresso</li>
+      </ul>
+      <h4>🚀 DevOps, Observability & Tools</h4>
+      <ul>
+        <li><b>CI/CD Engines:</b> GitHub Actions, Fastlane, Bitrise, Jenkins</li>
+        <li><b>Telemetries:</b> Crashlytics, AWS CloudWatch, Mobile Performance Profiling</li>
+        <li><b>Design & Planning:</b> Figma, Xcode, Android Studio, Jira</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Engineering Leadership & Core Philosophies
+
+- **Uplifting Developer Experience (DX):** I treat build tooling, project configuration, and shared local libraries as core products. I focus heavily on optimizing CI/CD workflows and local setups to dramatically decrease release friction and boost team velocity.
+- **Shift-Left Quality Assurance:** I champion structured code reviews, rigid technical governance, and robust automated test coverage across unit, integration, and E2E layers to catch edge cases long before code hits production.
+- **Performance Optimization:** Experienced in fine-tuning native mobile applications—historically driving optimizations like a **30% reduction in application load times** via aggressive bundle tuning, lazy loading, and custom native performance tuning.
+- **Collaborative Agile Governance:** Skilled at interfacing directly with Product, UX, Marketing, and Backend stakeholders to map out technical strategies for ambiguous or evolving product constraints.
+
+---
+
+## 🚀 Key Architectural Horizons (Featured Projects)
+
+While much of my production architecture lives within private enterprise systems, my engineering approach centers on these domains:
+
+### 🏢 Enterprise-Grade Mobile Frameworks
+*Architecting modular frameworks capable of handling high-concurrency operations, secure session states, and offline-first capabilities.*
+- **Core Vectors:** Secure identity tokens (Cognito/OAuth2), localized database caching, and multi-tenant performance profiles.
+- **Operational Target:** High-availability utilities used across rigorous international compliance markets.
+
+### 🌐 IoT, Hardware & Consumer Experiences
+*Engineering real-time data streaming architectures between client runtimes and connected operational physical hardware.*
+- **Core Vectors:** Wireless APIs, peripheral device integrations, high-traffic sports multimedia hubs (e.g., BigPond Score, Yahoo 7 Sports), and hardware-integrated transit ecosystems.
+
+---
+
+## 📬 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/imtayaz](https://linkedin.com/in/imtayaz)
+- **Email:** [imtayaz.khan@me.com](mailto:imtayaz.khan@me.com)
+- **Location:** Melton South, Victoria, Australia 🇦🇺
 
 
 # 💻 Tech Stack:
